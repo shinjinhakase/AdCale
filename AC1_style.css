@@ -1,0 +1,13 @@
+body{
+    background-color:rgb(93, 162, 206);
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+}
+.nanido{color: blueviolet;font-family: 'Gill Sans'}
+.easy{color:seagreen;}
+.difficult{color: red;}
+.boost{font-size:x-large;}
+.freedom{color: gold;font-size: xx-large;}
+.yodan{color: rgb(51, 51, 51);}
+.yokoku{font-size: larger}
